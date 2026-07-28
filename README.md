@@ -1,1 +1,1 @@
-Using AI slop, I poorly filter political out political videos from Reddit's r/videos.
+Using AI slop, I poorly filter out political videos from Reddit's r/videos.
